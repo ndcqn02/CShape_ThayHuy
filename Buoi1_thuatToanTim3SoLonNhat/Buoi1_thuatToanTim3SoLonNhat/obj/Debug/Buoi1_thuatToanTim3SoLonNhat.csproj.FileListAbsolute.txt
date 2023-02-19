@@ -1,0 +1,7 @@
+E:\Senior\CShap\Buoi1_thuatToanTim3SoLonNhat\Buoi1_thuatToanTim3SoLonNhat\bin\Debug\Buoi1_thuatToanTim3SoLonNhat.exe.config
+E:\Senior\CShap\Buoi1_thuatToanTim3SoLonNhat\Buoi1_thuatToanTim3SoLonNhat\bin\Debug\Buoi1_thuatToanTim3SoLonNhat.exe
+E:\Senior\CShap\Buoi1_thuatToanTim3SoLonNhat\Buoi1_thuatToanTim3SoLonNhat\bin\Debug\Buoi1_thuatToanTim3SoLonNhat.pdb
+E:\Senior\CShap\Buoi1_thuatToanTim3SoLonNhat\Buoi1_thuatToanTim3SoLonNhat\obj\Debug\Buoi1_thuatToanTim3SoLonNhat.csprojAssemblyReference.cache
+E:\Senior\CShap\Buoi1_thuatToanTim3SoLonNhat\Buoi1_thuatToanTim3SoLonNhat\obj\Debug\Buoi1_thuatToanTim3SoLonNhat.csproj.CoreCompileInputs.cache
+E:\Senior\CShap\Buoi1_thuatToanTim3SoLonNhat\Buoi1_thuatToanTim3SoLonNhat\obj\Debug\Buoi1_thuatToanTim3SoLonNhat.exe
+E:\Senior\CShap\Buoi1_thuatToanTim3SoLonNhat\Buoi1_thuatToanTim3SoLonNhat\obj\Debug\Buoi1_thuatToanTim3SoLonNhat.pdb

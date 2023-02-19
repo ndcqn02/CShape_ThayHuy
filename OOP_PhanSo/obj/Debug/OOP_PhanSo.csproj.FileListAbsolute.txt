@@ -1,0 +1,7 @@
+E:\Senior\C_Sharp\data\OOP_PhanSo\bin\Debug\OOP_PhanSo.exe.config
+E:\Senior\C_Sharp\data\OOP_PhanSo\bin\Debug\OOP_PhanSo.exe
+E:\Senior\C_Sharp\data\OOP_PhanSo\bin\Debug\OOP_PhanSo.pdb
+E:\Senior\C_Sharp\data\OOP_PhanSo\obj\Debug\OOP_PhanSo.csprojAssemblyReference.cache
+E:\Senior\C_Sharp\data\OOP_PhanSo\obj\Debug\OOP_PhanSo.csproj.CoreCompileInputs.cache
+E:\Senior\C_Sharp\data\OOP_PhanSo\obj\Debug\OOP_PhanSo.exe
+E:\Senior\C_Sharp\data\OOP_PhanSo\obj\Debug\OOP_PhanSo.pdb

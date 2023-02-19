@@ -1,0 +1,7 @@
+E:\Senior\C_Sharp\data\BaiTapVeNha1_OOP\bin\Debug\BaiTapVeNha1_OOP.exe.config
+E:\Senior\C_Sharp\data\BaiTapVeNha1_OOP\bin\Debug\BaiTapVeNha1_OOP.exe
+E:\Senior\C_Sharp\data\BaiTapVeNha1_OOP\bin\Debug\BaiTapVeNha1_OOP.pdb
+E:\Senior\C_Sharp\data\BaiTapVeNha1_OOP\obj\Debug\BaiTapVeNha1_OOP.csprojAssemblyReference.cache
+E:\Senior\C_Sharp\data\BaiTapVeNha1_OOP\obj\Debug\BaiTapVeNha1_OOP.csproj.CoreCompileInputs.cache
+E:\Senior\C_Sharp\data\BaiTapVeNha1_OOP\obj\Debug\BaiTapVeNha1_OOP.exe
+E:\Senior\C_Sharp\data\BaiTapVeNha1_OOP\obj\Debug\BaiTapVeNha1_OOP.pdb
