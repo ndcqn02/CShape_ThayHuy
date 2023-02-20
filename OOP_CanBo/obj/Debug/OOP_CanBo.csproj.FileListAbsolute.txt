@@ -1,0 +1,7 @@
+E:\Senior\C_Sharp\CShape_ThayHuy\OOP_CanBo\obj\Debug\OOP_CanBo.csprojAssemblyReference.cache
+E:\Senior\C_Sharp\CShape_ThayHuy\OOP_CanBo\obj\Debug\OOP_CanBo.csproj.CoreCompileInputs.cache
+E:\Senior\C_Sharp\CShape_ThayHuy\OOP_CanBo\bin\Debug\OOP_CanBo.exe.config
+E:\Senior\C_Sharp\CShape_ThayHuy\OOP_CanBo\bin\Debug\OOP_CanBo.exe
+E:\Senior\C_Sharp\CShape_ThayHuy\OOP_CanBo\bin\Debug\OOP_CanBo.pdb
+E:\Senior\C_Sharp\CShape_ThayHuy\OOP_CanBo\obj\Debug\OOP_CanBo.exe
+E:\Senior\C_Sharp\CShape_ThayHuy\OOP_CanBo\obj\Debug\OOP_CanBo.pdb
