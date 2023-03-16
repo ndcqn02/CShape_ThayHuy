@@ -1,0 +1,7 @@
+E:\CSharp\TH_CSharp_24-02\TH_CSharp_24-02\bin\Debug\TH_CSharp_24-02.exe.config
+E:\CSharp\TH_CSharp_24-02\TH_CSharp_24-02\bin\Debug\TH_CSharp_24-02.exe
+E:\CSharp\TH_CSharp_24-02\TH_CSharp_24-02\bin\Debug\TH_CSharp_24-02.pdb
+E:\CSharp\TH_CSharp_24-02\TH_CSharp_24-02\obj\Debug\TH_CSharp_24-02.csproj.AssemblyReference.cache
+E:\CSharp\TH_CSharp_24-02\TH_CSharp_24-02\obj\Debug\TH_CSharp_24-02.csproj.CoreCompileInputs.cache
+E:\CSharp\TH_CSharp_24-02\TH_CSharp_24-02\obj\Debug\TH_CSharp_24-02.exe
+E:\CSharp\TH_CSharp_24-02\TH_CSharp_24-02\obj\Debug\TH_CSharp_24-02.pdb

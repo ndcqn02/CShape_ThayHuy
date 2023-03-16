@@ -28,6 +28,7 @@ namespace OOP_CanBo
             int chon;
             for(int i = 1; i <= n; i++)
             {
+                Console.WriteLine("Can bo thu {0}", i);
                 Console.WriteLine("Chon loai can bo: ");
                 chon = Int32.Parse(Console.ReadLine());
                 switch (chon)
@@ -72,6 +73,17 @@ namespace OOP_CanBo
                 }
             }
             return 0;
+        }
+
+        public void TimKiemTheoLinQ(string search)
+        {
+            IEnumerable<CanBo>  list = from item in dsCanBo110 where item.HoTen110 == search select item;
+
+            foreach (var item in list)
+            {
+                Console.WriteLine(item.HoTen110 + " " + item.NgaySinh110);
+
+            }
         }
 
         public void HienThiThongTinCBTK(int i)

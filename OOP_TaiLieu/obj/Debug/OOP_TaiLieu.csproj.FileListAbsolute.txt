@@ -1,0 +1,7 @@
+E:\Senior\C_Sharp\CShape_ThayHuy\OOP_TaiLieu\bin\Debug\OOP_TaiLieu.exe.config
+E:\Senior\C_Sharp\CShape_ThayHuy\OOP_TaiLieu\bin\Debug\OOP_TaiLieu.exe
+E:\Senior\C_Sharp\CShape_ThayHuy\OOP_TaiLieu\bin\Debug\OOP_TaiLieu.pdb
+E:\Senior\C_Sharp\CShape_ThayHuy\OOP_TaiLieu\obj\Debug\OOP_TaiLieu.csprojAssemblyReference.cache
+E:\Senior\C_Sharp\CShape_ThayHuy\OOP_TaiLieu\obj\Debug\OOP_TaiLieu.csproj.CoreCompileInputs.cache
+E:\Senior\C_Sharp\CShape_ThayHuy\OOP_TaiLieu\obj\Debug\OOP_TaiLieu.exe
+E:\Senior\C_Sharp\CShape_ThayHuy\OOP_TaiLieu\obj\Debug\OOP_TaiLieu.pdb
