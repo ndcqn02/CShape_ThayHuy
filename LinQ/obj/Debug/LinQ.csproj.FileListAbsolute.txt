@@ -1,0 +1,7 @@
+E:\Senior\C_Sharp\CShape_ThayHuy\LinQ\bin\Debug\LinQ.exe.config
+E:\Senior\C_Sharp\CShape_ThayHuy\LinQ\bin\Debug\LinQ.exe
+E:\Senior\C_Sharp\CShape_ThayHuy\LinQ\bin\Debug\LinQ.pdb
+E:\Senior\C_Sharp\CShape_ThayHuy\LinQ\obj\Debug\LinQ.csprojAssemblyReference.cache
+E:\Senior\C_Sharp\CShape_ThayHuy\LinQ\obj\Debug\LinQ.csproj.CoreCompileInputs.cache
+E:\Senior\C_Sharp\CShape_ThayHuy\LinQ\obj\Debug\LinQ.exe
+E:\Senior\C_Sharp\CShape_ThayHuy\LinQ\obj\Debug\LinQ.pdb

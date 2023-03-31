@@ -38,15 +38,16 @@ namespace OOP_CanBo
                     case 2:
                         Console.WriteLine("Nhap ten muon tim kiem");
                         string ten = Console.ReadLine();
-                        if (qlcb.TimKiemTen(ten) != 0)
-                        {
-                            temp = qlcb.TimKiemTen(ten);
-                            Console.WriteLine("Co can bo nay trong danh sach");
-                        }
-                        else
-                        {
-                            Console.WriteLine("Khong tim thay!!");
-                        }
+                            qlcb.TimKiemTheoLinQ(ten);
+                        //if (qlcb.TimKiemTen(ten) != 0)
+                        //{
+                        //    temp = qlcb.TimKiemTen(ten);
+                        //    Console.WriteLine("Co can bo nay trong danh sach");
+                        //}
+                        //else
+                        //{
+                        //    Console.WriteLine("Khong tim thay!!");
+                        //}
                         
                         break;
                     case 3:
