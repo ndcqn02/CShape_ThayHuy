@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Cuong110.props" />
+</Project>

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:_222LTC02_2050531200110_NguyenDucCuongContext"
+    }
+  }
+}

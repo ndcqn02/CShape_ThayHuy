@@ -1,0 +1,31 @@
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\bin\Debug\net6.0\appsettings.Development.json
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\bin\Debug\net6.0\appsettings.json
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\bin\Debug\net6.0\Contoso University.staticwebassets.runtime.json
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\bin\Debug\net6.0\Contoso University.exe
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\bin\Debug\net6.0\Contoso University.deps.json
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\bin\Debug\net6.0\Contoso University.runtimeconfig.json
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\bin\Debug\net6.0\Contoso University.dll
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\bin\Debug\net6.0\Contoso University.pdb
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\Contoso University.csproj.AssemblyReference.cache
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\Contoso University.GeneratedMSBuildEditorConfig.editorconfig
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\Contoso University.AssemblyInfoInputs.cache
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\Contoso University.AssemblyInfo.cs
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\Contoso University.csproj.CoreCompileInputs.cache
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\Contoso University.MvcApplicationPartsAssemblyInfo.cache
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\Contoso University.RazorAssemblyInfo.cache
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\Contoso University.RazorAssemblyInfo.cs
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\staticwebassets\msbuild.Contoso University.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\staticwebassets\msbuild.build.Contoso University.props
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Contoso University.props
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Contoso University.props
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\staticwebassets.build.json
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\staticwebassets.development.json
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\scopedcss\bundle\Contoso University.styles.css
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\scopedcss\projectbundle\Contoso University.bundle.scp.css
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\Contoso University.dll
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\refint\Contoso University.dll
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\Contoso University.pdb
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\Contoso University.genruntimeconfig.cache
+E:\Senior\C_Sharp\CShape_ThayHuy\EF\Contoso University\Contoso University\obj\Debug\net6.0\ref\Contoso University.dll

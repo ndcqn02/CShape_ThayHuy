@@ -1,0 +1,49 @@
+﻿@model _222LTC02_2050531200110_NguyenDucCuong.Models.GioHang
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>GioHang</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="GioHangId" />
+            <div class="form-group">
+                <label asp-for="Quantity" class="control-label"></label>
+                <input asp-for="Quantity" class="form-control" />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TotalPrice" class="control-label"></label>
+                <input asp-for="TotalPrice" class="form-control" />
+                <span asp-validation-for="TotalPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ThucPhamId" class="control-label"></label>
+                <select asp-for="ThucPhamId" class="form-control" asp-items="ViewBag.ThucPhamId"></select>
+                <span asp-validation-for="ThucPhamId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NguoiMuaId" class="control-label"></label>
+                <input asp-for="NguoiMuaId" class="form-control" />
+                <span asp-validation-for="NguoiMuaId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

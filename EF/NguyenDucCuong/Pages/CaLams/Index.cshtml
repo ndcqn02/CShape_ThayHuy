@@ -1,0 +1,48 @@
+﻿@page
+@model Cuong110.Pages.CaLams.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CaLam[0].TenCa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CaLam[0].ThoiGianBatDau)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CaLam[0].ThoiGianKetThuc)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.CaLam) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenCa)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThoiGianBatDau)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ThoiGianKetThuc)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

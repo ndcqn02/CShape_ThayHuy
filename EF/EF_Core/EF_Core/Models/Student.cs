@@ -7,6 +7,7 @@
         public string FirstMidName110 { get; set; }
         public DateTime EnrollmentDate110 { get; set; }
 
-      
+        //public ICollection<Enrollment> Enrollments110 { get; set; }
+
     }
 }

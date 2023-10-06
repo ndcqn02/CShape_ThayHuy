@@ -1,0 +1,194 @@
+﻿@*<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - _222LTC02_2050531200110_NguyenDucCuong</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/_222LTC02_2050531200110_NguyenDucCuong.styles.css" asp-append-version="true" />
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Bootstrap CRUD Data Table for Database with Modal Form</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Varela+Round">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">_222LTC02_2050531200110_NguyenDucCuong</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - _222LTC02_2050531200110_NguyenDucCuong - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+*@
+
+
+<!DOCTYPE HTML>
+<head>
+	<title>Free Home Shoppe Website Template | Home :: w3layouts</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+	<link rel="stylesheet" href="~/Practice_Template1.styles.css" asp-append-version="true" />
+
+	<link href="~/css/style.css" rel="stylesheet" />
+	<link href="~/css/slider.css" rel="stylesheet" />
+	<script type="text/javascript" src="~/js/jquery-1.7.2.min.js"></script>
+	<script type="text/javascript" src="~/js/move-top.js"></script>
+	<script type="text/javascript" src="~/js/easing.js"></script>
+	<script type="text/javascript" src="~/js/startstop-slider.js"></script>
+</head>
+<body>
+	<div class="wrap">
+		<div class="header">
+			<div class="headertop_desc">
+				<div class="call">
+					<p><span>Need help?</span> call us <span class="number">1-22-3456789</span></span></p>
+				</div>
+				<div class="account_desc">
+					<ul>
+						<li><a href="/products">Products</a></li>
+						<li><a href="#">Login</a></li>
+						<li><a href="#">Delivery</a></li>
+						<li><a href="#">Checkout</a></li>
+						<li><a href="#">My Account</a></li>
+					</ul>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="header_top">
+				<div class="logo">
+					<a href="index.html"><img src="~/images/logo.png" alt="" /></a>
+				</div>
+				<div class="cart">
+					<p>
+						Welcome to our Online Store! <span>Cart:</span><div id="dd" class="wrapper-dropdown-2">
+							0 item(s) - $0.00
+							<ul class="dropdown">
+								<li>you have no items in your Shopping cart</li>
+							</ul>
+						</div>
+					</p>
+				</div>
+				<script type="text/javascript">
+					function DropDown(el) {
+						this.dd = el;
+						this.initEvents();
+					}
+					DropDown.prototype = {
+						initEvents: function () {
+							var obj = this;
+
+							obj.dd.on('click', function (event) {
+								$(this).toggleClass('active');
+								event.stopPropagation();
+							});
+						}
+					}
+
+					$(function () {
+
+						var dd = new DropDown($('#dd'));
+
+						$(document).click(function () {
+							// all dropdowns
+							$('.wrapper-dropdown-2').removeClass('active');
+						});
+
+					});
+
+				</script>
+				<div class="clear"></div>
+			</div>
+			<div class="header_bottom">
+				<div class="menu">
+					<ul>
+						<li class="active">
+							@Html.ActionLink("Home", "Index", "Home")
+						<li>
+								@Html.ActionLink("About", "Index", "About")
+						<li>
+									@Html.ActionLink("Products", "Index", "Products")
+						<li>
+
+							<a href="news.html">News</a>
+						</li>
+						<li><a href="contact.html">Contact</a></li>
+						<div class="clear"></div>
+					</ul>
+				</div>
+				<div class="search_box">
+					<form asp-action="Index" method="get">
+						<input type="text" value="@ViewData["CurrentFilter"]" name="SearchString" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}">
+						<input type="submit" value="Search">
+					</form>
+
+					@*<form asp-action="Index" method="get">
+					<div class="form-actions no-color">
+					<p>
+					Find by name: <input type="text" name="SearchString" value="@ViewData["CurrentFilter"]" />
+					<input type="submit" value="Search" class="btn btn-default" /> |
+					<a asp-action="Index">Back to Full List</a>
+					</p>
+					</div>
+					</form>*@
+				</div>
+				<div class="clear"></div>
+			</div>
+
+		</div>
+		<div class="main">
+			@RenderBody()
+
+
+		</div>
+	</div>
+
+	<script type="text/javascript">
+		$(document).ready(function () {
+			$().UItoTop({ easingType: 'easeOutQuart' });
+
+		});
+	</script>
+	<a href="#" id="toTop"><span id="toTopHover"> </span></a>
+</body>
+</html>

@@ -1,0 +1,15 @@
+E:\Senior\C_Sharp\CShape_ThayHuy\Prac\prac2\prac2\bin\Debug\net6.0\prac2.exe
+E:\Senior\C_Sharp\CShape_ThayHuy\Prac\prac2\prac2\bin\Debug\net6.0\prac2.deps.json
+E:\Senior\C_Sharp\CShape_ThayHuy\Prac\prac2\prac2\bin\Debug\net6.0\prac2.runtimeconfig.json
+E:\Senior\C_Sharp\CShape_ThayHuy\Prac\prac2\prac2\bin\Debug\net6.0\prac2.dll
+E:\Senior\C_Sharp\CShape_ThayHuy\Prac\prac2\prac2\bin\Debug\net6.0\prac2.pdb
+E:\Senior\C_Sharp\CShape_ThayHuy\Prac\prac2\prac2\obj\Debug\net6.0\prac2.csproj.AssemblyReference.cache
+E:\Senior\C_Sharp\CShape_ThayHuy\Prac\prac2\prac2\obj\Debug\net6.0\prac2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Senior\C_Sharp\CShape_ThayHuy\Prac\prac2\prac2\obj\Debug\net6.0\prac2.AssemblyInfoInputs.cache
+E:\Senior\C_Sharp\CShape_ThayHuy\Prac\prac2\prac2\obj\Debug\net6.0\prac2.AssemblyInfo.cs
+E:\Senior\C_Sharp\CShape_ThayHuy\Prac\prac2\prac2\obj\Debug\net6.0\prac2.csproj.CoreCompileInputs.cache
+E:\Senior\C_Sharp\CShape_ThayHuy\Prac\prac2\prac2\obj\Debug\net6.0\prac2.dll
+E:\Senior\C_Sharp\CShape_ThayHuy\Prac\prac2\prac2\obj\Debug\net6.0\refint\prac2.dll
+E:\Senior\C_Sharp\CShape_ThayHuy\Prac\prac2\prac2\obj\Debug\net6.0\prac2.pdb
+E:\Senior\C_Sharp\CShape_ThayHuy\Prac\prac2\prac2\obj\Debug\net6.0\prac2.genruntimeconfig.cache
+E:\Senior\C_Sharp\CShape_ThayHuy\Prac\prac2\prac2\obj\Debug\net6.0\ref\prac2.dll
